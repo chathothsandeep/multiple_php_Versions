@@ -19,14 +19,15 @@ Install PHP Versions:
 
 First we have to install PHP 7.1 using the below mentioned commands.
 
-sudo apt install software-properties-common
+    sudo apt install software-properties-common
 
 ![screenshot-1](images/phpinstall1.png)
 
-sudo add-apt-repository ppa:ondrej/php
+    sudo add-apt-repository ppa:ondrej/php
 
 Run update command:
-sudo apt update
+
+    sudo apt update
 
 ![screenshot-2](images/apt-update.png)
 
