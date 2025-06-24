@@ -25,7 +25,7 @@ sudo apt install software-properties-common
 
 sudo add-apt-repository ppa:ondrej/php
 
-#Run update command:
+Run update command:
 sudo apt update
 
 ![screenshot-2](images/apt-update.png)
